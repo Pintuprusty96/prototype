@@ -9,6 +9,8 @@ function array(){
         })
         this[i]=arguments[i]
     }
+
+    
     this.length=arguments.length;
     }
 
